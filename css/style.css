@@ -1,0 +1,168 @@
+body {
+font-family: 'Questrial', sans-serif;
+color: #40514E;
+font-size: 16px;
+  margin: 0;
+    text-align: center;
+    }
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 100px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Questrial', sans-serif;
+  font-weight: normal;
+  margin: 0 auto;
+  font-size: 2rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 10px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 1.5;
+
+}
+
+a{
+  color: #11999E;
+  font-family: 'Questrial', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.first-container{
+background-color: #a8e6cf;
+}
+
+.top-cloud{
+  position: relative;
+  left: 350px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+}
+
+.middle-container{
+margin: 100px 0;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+}
+
+.skills{
+  text-align: left;
+  margin: auto;
+}
+
+.alignment{
+    margin-left: 500px;
+    line-height: 1.5;
+}
+
+.experience{
+  width: 80%;
+  margin: 10px auto 30px auto;
+  text-align: left;
+}
+
+.Personal{
+  float: right;
+  margin-right: 2px;
+  }
+
+
+.PYR{
+  float: left;
+  margin-right: 2px;
+}
+
+.BOTTOM{
+margin: 100px 0;
+text-align: center;
+}
+.message{
+  width: 50%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container{
+background-color: #a8e6cf;
+margin: 50px 0 20px;
+}
+
+.copyright{
+color: #EAF6F6;
+font-size: 0.75rem;
+padding: 20px 0;
+
+}
+
+.classname {
+	-moz-box-shadow: 0px 10px 18px -7px #274773;
+	-webkit-box-shadow: 0px 10px 18px -7px #274773;
+	box-shadow: 0px 10px 18px -7px #274773;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #599bb3), color-stop(1, #408c99) );
+	background:-moz-linear-gradient( center top, #599bb3 5%, #408c99 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#599bb3', endColorstr='#408c99');
+	background-color:#599bb3;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Questrial', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	font-style:normal;
+height:27px;
+	line-height:27px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #3d768a;
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #408c99), color-stop(1, #599bb3) );
+	background:-moz-linear-gradient( center top, #408c99 5%, #599bb3 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#408c99', endColorstr='#599bb3');
+	background-color:#408c99;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
